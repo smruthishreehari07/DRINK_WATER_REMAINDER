@@ -1,28 +1,26 @@
-💧 Water Drinking Reminder
+Water Drinking Reminder
 
 A simple Python project that sends desktop notifications every hour to remind you to drink water and stay hydrated while studying or working.
 
-✨ Features
-💧 Sends desktop notifications with a friendly water reminder.
-⏰ Repeats automatically every 1 hour.
-🐍 Built with beginner-friendly Python code.
-🔔 Uses desktop notifications through the Plyer library.
+ Features
+ Sends desktop notifications with a friendly water reminder.
+ Repeats automatically every 1 hour.
+ Built with beginner-friendly Python code.
+ Uses desktop notifications through the Plyer library.
 
-🛠️ Technologies Used
+Technologies Used
 Python
 time module
 plyer library
 
 
-A desktop notification will appear with this message:
-
-💧 Go grab some water so your brain keeps working its magic!
+A desktop notification will appear with this message:  Go grab some water so your brain keeps working its magic!
 
 The first notification appears immediately. The next reminder appears after one hour.
 
 To stop the program: Press Ctrl + C in the terminal.
 
-⏰ Customize the Reminder Interval
+ Customize the Reminder Interval
 
 You can change the interval by modifying time.sleep() in the Python file.
 
