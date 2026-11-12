@@ -20,7 +20,7 @@ The first notification appears immediately. The next reminder appears after one 
 
 To stop the program: Press Ctrl + C in the terminal.
 
- Customize the Reminder Interval
+Customize the Reminder Interval
 
 You can change the interval by modifying time.sleep() in the Python file.
 
