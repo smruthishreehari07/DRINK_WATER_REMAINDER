@@ -1,5 +1,4 @@
 Water Drinking Reminder
-
 A simple Python project that sends desktop notifications every hour to remind you to drink water and stay hydrated while studying or working.
 
 Features
